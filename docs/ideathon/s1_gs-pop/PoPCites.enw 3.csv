@@ -1,0 +1,15 @@
+﻿%0 Journal Article
+%A NT Singh
+%A J Rani
+%A P Sharma
+%A A Mishra
+%A ...
+%T An innovative URL-based system approach with ML based prevention
+%B 2024 IEEE …
+%I ieeexplore.ieee.org
+%U https://ieeexplore.ieee.org/abstract/document/10486712/
+%D 2024
+%X This paper delves into the pervasive threat of phishing in the e-commerce sector, where adversaries impersonate financial institutions to perpetrate identity theft. The modus operandi involves sending deceptive emails urging users to click on fraudulent links, leading them to fake websites mimicking authentic ones. Focused on URL-based detection, the study employs sophisticated algorithms and machine learning techniques, utilizing a dataset for training and testing to identify phishing URLs. The paper outlines various types of …
+%1 8 cites: https://scholar.google.com/scholar?cites=10665638239382068306&as_sdt=2005&sciodt=2007&hl=en
+%1 Query date: 2026-10-10 14:51:20
+

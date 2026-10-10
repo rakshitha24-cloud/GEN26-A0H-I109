@@ -1,0 +1,14 @@
+﻿%0 Journal Article
+%A D Kumar
+%A K Manikandan
+%A SE Raja
+%A ...
+%T Detecting Fake URLs and Preventing Malware Using Machine Learning
+%B 2024 International …
+%I ieeexplore.ieee.org
+%U https://ieeexplore.ieee.org/abstract/document/10837506/
+%D 2024
+%X Increased rates of phishing attacks are one of the threats present in the increasingly connected society of the modern world especially for the youths. In this case, an ML techniques that involves patterns and characteristics to alert users of suspicious links and prevent them from being at risk, such as Naive Bayes, provide solutions. It also offers fairly good protection against the last kind of phishing exploits that employ misleading URLs as their implement, although the URLs are classified as being of either a malicious or a …
+%1 1 cites: https://scholar.google.com/scholar?cites=2419000606041114549&as_sdt=2005&sciodt=2007&hl=en
+%1 Query date: 2026-10-10 14:39:08
+
