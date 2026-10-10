@@ -1,0 +1,13 @@
+﻿%0 Journal Article
+%A B Varshitha
+%A B Ganesh
+%A D Saiteja
+%A ...
+%T AI-Driven Phishing Website Detection Using URL and HTML Features with NLP
+%B 2026 2nd …
+%I ieeexplore.ieee.org
+%U https://ieeexplore.ieee.org/abstract/document/11581799/
+%D 2026
+%X Phishing attacks have become a major issue in cybersecurity, as malicious users use fake webpages to masquerade themselves as genuine services to steal sensitive user data. It is becoming harder to detect such webpages as attackers create very believable structure of the webpage and its content. The given paper suggests a hybrid phishing detection system that will combine both analysis of the webpage data and structural characteristics of the URL. System then takes raw HTML webpages and does HTML parsing and text extraction …
+%1 Query date: 2026-10-10 13:16:02
+

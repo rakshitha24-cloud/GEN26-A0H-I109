@@ -1,0 +1,13 @@
+﻿%0 Journal Article
+%A MV Pachpatil
+%A A Agrawal
+%T Evolution of malicious url detection: A review of techniques for malicious url detection and classification
+%B International Conference on Emerging …
+%I Springer
+%R 10.1007/978-3-031-92854-3_55
+%U https://link.springer.com/chapter/10.1007/978-3-031-92854-3_55
+%D 2025
+%X The ever-increasing number of cyber threats also means that malicious URLs are one such attack vector that has emerged as a vector for malware dissemination, phishing, and data theft. Blacklisting and rule-based filtering, traditional detection methods, have been rendered less effective by the constantly changing nature of these threats. To combat this, researchers have created sophisticated detection and classification methods using machine learning (ML), deep learning (DL), and natural language processing (NLP). This work provides an …
+%1 4 cites: https://scholar.google.com/scholar?cites=11492901415940168278&as_sdt=2005&sciodt=2007&hl=en
+%1 Query date: 2026-10-10 15:30:30
+
