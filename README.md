@@ -8,7 +8,7 @@
 |:---------------:|:--------------------------|:----------------------:|:---------------:|:-------------------------------:|:|:-------------------------------:|  
 |   Team Leader   |Nidarshanaa S              |CB.SC.U4CYS26132        |Female            |CSE(CYS)                        |  Mythreyi Bhavanam                |
 |    Member 2     |Rakshitha S                |CB.SC.U4CYS26140        |Female            |CSE(CYS)                        |  Mythreyi Bhavanam                |
-|    Member 3     |Neha Rajesh                |CB.SC.U4CYS26130        |Female            |CSE(CYS)                        |  Cargi Bhavanam                   |
+|    Member 3     |Neha Rajesh                |CB.SC.U4CYS26130        |Female            |CSE(CYS)                        |  Gargi Bhavanam                   |
 |    Member 4     |Rakesh Raam J              |CB.SC.U4CYS26044        |Male              |CSE(CYS)                        |  Kashyapa Bhavanam                |
 
 
